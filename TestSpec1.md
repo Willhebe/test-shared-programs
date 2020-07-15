@@ -5,7 +5,7 @@
 1. Download this specification file (edit in text editor)
 
 - Add problems or success of test by writing a new line between horizontal rules (---).
-- Once done tests and written notes copy and paste to wiki.
+- Once done tests and written notes copy and paste to wiki (see example page titled "Test Spec 1 150720 Will" - create a new page with appropriate similar title).
 ---
 write observations here.
 
