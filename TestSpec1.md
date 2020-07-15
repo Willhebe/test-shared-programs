@@ -23,6 +23,9 @@ Any other issues with downloading files write them between horizontal rules.
 write observations here.
 
 ---
+
+# Tests
+
 3. Run Project1.exe
 - It should look like the following:
 ![screenshot project1.exe](https://github.com/Willhebe/test-shared-programs/blob/master/screenshotProject1exe.png)
