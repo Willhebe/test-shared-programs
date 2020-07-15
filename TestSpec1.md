@@ -2,7 +2,7 @@
 
 # setup steps
 
-1. Download this specification file
+1. Download this specification file (edit in text editor)
 
 - Add problems or success of test by writing a new line between horizontal rules (---).
 - Once done tests and written notes copy and paste to wiki.
